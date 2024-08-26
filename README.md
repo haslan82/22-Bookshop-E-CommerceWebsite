@@ -5,9 +5,9 @@ Kullanıcı dostu arayüzüyle kitap arama, inceleme gibi özellikleri sunan onl
 
 ## Kullanılan Teknolojiler
 
-### HTML & CSS
+- HTML & CSS
  
- # GIF
+ ## Gif
 
  ![](assets/images/Screen%20Recording%202024-05-03%20at%2010.52.45.21%20PM.gif)
 
